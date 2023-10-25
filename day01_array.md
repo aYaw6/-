@@ -50,7 +50,6 @@ Consider the number of elements in nums which are not equal to val be k, to get 
 ```java
 class Solution {
     public int removeElement(int[] nums, int val) {
-        // 快慢指针
         int slowIndex = 0;
         for (int fastIndex = 0; fastIndex < nums.length; fastIndex++) {
             if (nums[fastIndex] != val) {
