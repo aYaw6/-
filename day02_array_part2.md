@@ -81,6 +81,7 @@ class Solution {
 *Example 1:*
 
 ![image](https://github.com/aYaw6/leetcode_record/assets/128999314/90cced97-e27d-4cdc-b8fa-6c511e01500f)
+
 Input: n = 3
 Output: [[1,2,3],[8,9,4],[7,6,5]]
 
